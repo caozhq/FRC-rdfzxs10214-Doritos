@@ -1,0 +1,74 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 1.901478536053158,
+        "y": 3.690775020933198
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 4.628172482916733,
+        "y": 1.3049178174275693
+      },
+      "isLocked": false,
+      "linkedName": "Q4Shoot"
+    },
+    {
+      "anchor": {
+        "x": 6.079163190354851,
+        "y": 1.7528746801265855
+      },
+      "prevControl": {
+        "x": 5.589958321699415,
+        "y": 0.8980535412128744
+      },
+      "nextControl": {
+        "x": 7.004291493754992,
+        "y": 3.369414662909991
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 8.291145335471334,
+        "y": 2.4335446126362994
+      },
+      "prevControl": {
+        "x": 7.956924616139309,
+        "y": 3.3839847832367425
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "M4Note"
+    }
+  ],
+  "rotationTargets": [
+    {
+      "waypointRelativePos": 1.45,
+      "rotationDegrees": -75.94578558182918,
+      "rotateFast": false
+    }
+  ],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 8.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": -91.14576283817539,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": "Offseason Paths",
+  "previewStartingState": {
+    "rotation": 139.64797069138703,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}
